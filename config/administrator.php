@@ -3,7 +3,7 @@
 return array(
 
     // 后台的 URI 入口
-    'uri' => 'asdasdsa',
+    'uri' => 'admin',
 
     // 后台专属域名，没有的话可以留空
     'domain' => 'houtai.test',
@@ -49,6 +49,7 @@ return array(
         ],
         '站点管理' => [
             'settings.site',
+            'links',
         ],
     ],
 
