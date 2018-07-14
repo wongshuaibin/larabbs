@@ -3,10 +3,10 @@
 return array(
 
     // 后台的 URI 入口
-    'uri' => 'admin',
+    'uri' => 'asdasdsa',
 
     // 后台专属域名，没有的话可以留空
-    'domain' => '',
+    'domain' => 'houtai.test',
 
     // 应用名称，在页面标题和左上角站点名称处显示
     'title' => env('APP_NAME', 'Laravel'),
